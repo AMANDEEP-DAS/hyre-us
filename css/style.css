@@ -67,6 +67,11 @@ body{
     transform: translate(-50%,-50%);
 }
 
+.showcase-title{
+    color: black;
+    text-align: center;
+}
+
 .button{
     display: inline-block;
     padding: 1em 3em;
@@ -107,12 +112,16 @@ body{
     margin-bottom: 10rem;
 }
 
-.row1 .img-box, .row2 .text-box{
+.row2{
+    margin-bottom: 10rem;
+}
+
+.row1 .img-box, .row2 .text-box,.row3 .img-box{
     float: left;
     width: 50%;
 }
 
-.row2 .img-box, .row1 .text-box{
+.row2 .img-box, .row1 .text-box, .row3 .text-box{
     float: right;
     width: 50%;
 }
