@@ -67,10 +67,11 @@ body{
     transform: translate(-50%,-50%);
 }
 
-.showcase-title{
+.title{
     color: black;
     text-align: center;
 }
+
 
 .button{
     display: inline-block;
@@ -164,13 +165,13 @@ body{
 .box-1, .box-3{
     color: white;
     background-color: black;
-    /* padding: 1rem; */
+    /* padding: 20px; */
 }
 
 .box-2{
     color: white;
     background-color: red;
-    /* padding: 1rem; */
+    /* padding: 20px; */
 }
 
 .social{
