@@ -14,7 +14,7 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 1.3rem;
+    padding-top: 1.3rem; 
 }
 .header .logo{
     color: white;
@@ -22,7 +22,19 @@ body{
     padding: 1rem;
 }
 
+
+
+
+
+/* this is hyre us */
+
+
+
+
+
 .header .navbar .logo{
+    
+    
     float: left;
 }
 
