@@ -19,3 +19,11 @@ The database used is MongoDB and the API's are made using Spring Boot.
 
 # Challenges we ran into
 The biggest challenge we found was to design the platform in such a way which was going to be useful for both Companies and Employees.
+
+# Accomplishments that we're proud of
+We are proud that we have created a online platform where we connect the Verified Employees or Freelancer with different Companies.
+We deal with particular Technologies which are popular now and have a great potential to grow in the future.
+
+# What we learned
+We designed the website and made the backend from Scratch using MongoDB as database and Spring Boot for making API's.
+We handled data in an efficient and effective manner.
