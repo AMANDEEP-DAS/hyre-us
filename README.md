@@ -12,3 +12,10 @@ Employees can find different Companies to work for and the Companies can find th
 Only verified Employees and allowed to use this platform as we perform a background check on them so that the Companies which will hire
 them can get the best employees without any issue.
 HYRE 2.0 helps in solving this issue by providing data analytics employees to different companies.
+
+# How we built it
+We designed the interface the website using AdobeXD and constructed the site using HTML,CSS and Javascript.
+The database used is MongoDB and the API's are made using Spring Boot.
+
+# Challenges we ran into
+The biggest challenge we found was to design the platform in such a way which was going to be useful for both Companies and Employees.
